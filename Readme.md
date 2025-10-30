@@ -1,6 +1,5 @@
-#Gestión de Conflictos
+#Gestión de Conflictos - 30/10
 
-- FL
 - MJ
 - MT
 
